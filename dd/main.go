@@ -2,8 +2,8 @@ package main
 
 import "fmt"
 
-const Version = "v0.0.4"
+const Version = "v0.0.2"
 
 func main() {
-	fmt.Println("gvalid start" + Version)
+	fmt.Println("dd start" + Version)
 }
